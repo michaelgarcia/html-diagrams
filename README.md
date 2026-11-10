@@ -1,6 +1,6 @@
 # html-diagrams
 
-This repository is the companion to my blog article *The architect's dream: any diagram in minutes thanks to AI*.
+This repository is the companion to my blog article [*The architect's dream: any diagram in minutes thanks to AI*](https://horizonworks.substack.com/p/the-architects-dream-any-diagram).
 
 ### 1. Get started with HTML diagrams
 
